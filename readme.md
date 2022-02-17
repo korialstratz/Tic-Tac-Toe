@@ -4,4 +4,4 @@ run "main.py"
 
 wait 3 seconds after a round and a new game will start automatically
 
-![tic tac toe.png](readme iamges\tic tac toe.png)
+![alt text](https://github.com/korialstratz/Tic-Tac-Toe/blob/master/readme%20iamges/tic%20tac%20toe.png?raw=true)
