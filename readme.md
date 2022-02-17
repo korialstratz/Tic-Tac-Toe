@@ -1,5 +1,7 @@
 Simple Tic Tac Toe game, built with pygame
 
+pip install -r requirements.txt
+
 run "main.py"
 
 wait 3 seconds after a round and a new game will start automatically
